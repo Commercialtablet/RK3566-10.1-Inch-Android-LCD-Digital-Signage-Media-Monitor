@@ -3,11 +3,10 @@
 This is the documentation for RK3566 10.1 inch android lcd digital signage media monitor products, written by Sales Team of HYY Technology Co.,Ltd.
 
 # RK3566 10.1 inch android lcd digital signage media monitor Documents
-01 HYY RK3566 10.1 inch android lcd digital signage media monitor specification 
+[01] [Specification-HYY-TM1010T-Android.pdf](https://github.com/carrotal/RK3566-10.1-Inch-Android-LCD-Digital-Signage-Media-Monitor/files/10906138/Specification-HYY-TM1010T-Android.pdf)
+
 
 # Specifications
-
-
 
 | Model No          | HYY-TM1010T                                                  |
 | :---------------: | :----------------------------------------------------------: |
