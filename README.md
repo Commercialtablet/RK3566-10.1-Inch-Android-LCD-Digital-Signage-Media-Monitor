@@ -5,30 +5,11 @@ This is the documentation for RK3566 10.1 inch android lcd digital signage media
 # RK3566 10.1 inch android lcd digital signage media monitor Documents
 01 HYY RK3566 10.1 inch android lcd digital signage media monitor specification 
 
-# Specification
-- Model NO.: HYY-T-27-A-P
-- Interface Type: HDMI/USB
-- Remote Control: Remote Control or Not
-- OS: Android/Windows/Linux
-- Customized: Customized
-- Warranty: 1 Year
-- Certificate: CE/SGS
-- Size: 27 Inch
-- CPU: Rk3566
-- RAM: 2GB
-- ROM: 16GB
-- Operation System: Android 11
-- Resolution: 1920X1080
-- Contrast Ratio: 1000:1
-- Aspect Ratio: 16:9
-- Transport Package: Carton/Plywood Case/Aviation Case
-- Specification: Metal/Plastic Housing
-- Trademark: HYY
-- Origin: Guangdong China
-- HS Code: 8528591090
-- Production Capacity: 500000/Year
+# Specifications
+- |Model No.|HYY-TM1010T|
+- |Product type|Advisement player with Touch|
 
-# Product Picture
+# Product Pictures
 
 
 ![1020-1](https://user-images.githubusercontent.com/126669652/223313446-f82631d3-826a-4790-8357-d187618ae12c.jpg)
