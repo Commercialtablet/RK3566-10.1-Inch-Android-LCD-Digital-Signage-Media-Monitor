@@ -6,17 +6,44 @@ This is the documentation for RK3566 10.1 inch android lcd digital signage media
 01 HYY RK3566 10.1 inch android lcd digital signage media monitor specification 
 
 # Specifications
-- | Model No.:      | HYY-TM1010T                                       |
-- | :-----------:   | :-------------------------:                       |          
-- | Product type:   | Advisement player with Touch                      |
-- | System:         | CPU:   | 64bit Quad core cortex A55,1.8G,RK3566   |
 
 
-| UYUYGYU | YUYUY  | YUYU  |
-| ------- | ------ | ----- |
-| UYUY    | YUYUY  | UYUYU |
-| YUYUY   | UUYUYU | UYUY  |
-| UYUY    | UYUY   | UYUYU |
+
+| Model No          | HYY-TM1010T                                                  |
+| :---------------: | :----------------------------------------------------------: |
+| Product Type:     | Advisement player with Touch                                 |
+| CPU:              | 64bit Quad core cortex A55,1.8G,RK3566                       |
+| RAM:              | 2GB                                                          |
+| Internal momory:  | 16GB                                                         |
+| Operation system: | Android 11                                                   |
+| Touch:            | 10-Point capacitive touch                                    |
+| Panel:            | 10.1'' LCD IPS panel                                         |
+| Resolution:       | 1280*800                                                     |
+| Active area:      | 216.96MM(H)*135.6MM(V)                                       |
+| Viewing angle:    | 89/89/89/89(L/R/U/D)                                         |
+| Display mode:     | Normally black, IPS                                          |
+| Contrast radio:   | 700                                                          |
+| Luminance:        | 300cdm2                                                      |
+| Aspect ratio:     | 16:9                                                         |
+| HDMI:             | HDMI output*1                                                |
+| USB 3.0:          | USB 3.9*1                                                    |
+| USB 2.0:          | USB 2.0*1                                                    |
+| RJ45:             | Ethernet*1                                                   |
+| Earphone:         | 3.5mm earphone                                               |
+| Power Jack:       | DC power input                                               |
+| USB Device:       | Mini USB OTG                                                 |
+| Video format:     | MPEG-1, MPEG-2,MPEG-4,H.263,H.264,VC1,RV etc., support up to 4K |
+| Audio format:     | MP3/WMA/AAC etc.                                             |
+| Photo:            | Jpeg etc.                                                    |
+| Speaker:          | 2*3W                                                         |
+| Microphone:       | Optional                                                     |
+| Camera:           | 2.0MP, Front                                                 |
+| VESA:             | 75*75mm                                                      |
+| Language:         | Multi-language                                               |
+| Working temp:     | 0-40 degree                                                  |
+| Certificates:     | CE                                                           |
+| Adapter:          | ADAPTER, 12v, 2.5A                                           |
+| User manual:      | Yes                                                          |
 
 # Product Pictures
 
