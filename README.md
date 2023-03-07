@@ -30,6 +30,16 @@ HYY RK3566 10.1 inch android lcd digital signage media monitor
 - HS Code: 8528591090
 - Production Capacity: 500000/Year
 
+# Product Picture
+
+
+
+![1020-1](https://user-images.githubusercontent.com/126669652/223313446-f82631d3-826a-4790-8357-d187618ae12c.jpg)
+
+
+
+
+
 # Contacts
 - Website: www.we-signage.com
 - https://we-signage.en.made-in-china.com/
