@@ -11,6 +11,13 @@ This is the documentation for RK3566 10.1 inch android lcd digital signage media
 - | Product type:   | Advisement player with Touch                      |
 - | System:         | CPU:   | 64bit Quad core cortex A55,1.8G,RK3566   |
 
+
+| UYUYGYU | YUYUY  | YUYU  |
+| ------- | ------ | ----- |
+| UYUY    | YUYUY  | UYUYU |
+| YUYUY   | UUYUYU | UYUY  |
+| UYUY    | UYUY   | UYUYU |
+
 # Product Pictures
 
 
