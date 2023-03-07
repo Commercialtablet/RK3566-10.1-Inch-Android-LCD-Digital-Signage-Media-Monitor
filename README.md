@@ -5,8 +5,6 @@ This is the documentation for RK3566 10.1 inch android lcd digital signage media
 # RK3566 10.1 inch android lcd digital signage media monitor Documents
 01 HYY RK3566 10.1 inch android lcd digital signage media monitor specification 
 
-HYY RK3566 10.1 inch android lcd digital signage media monitor
-
 # Specification
 - Model NO.: HYY-T-27-A-P
 - Interface Type: HDMI/USB
@@ -33,8 +31,18 @@ HYY RK3566 10.1 inch android lcd digital signage media monitor
 # Product Picture
 
 
-
 ![1020-1](https://user-images.githubusercontent.com/126669652/223313446-f82631d3-826a-4790-8357-d187618ae12c.jpg)
+
+
+
+
+![1020-5](https://user-images.githubusercontent.com/126669652/223313658-bb160657-3c1b-4c51-9d34-64e6c009a9f9.jpg)
+
+
+
+
+
+![1020-3](https://user-images.githubusercontent.com/126669652/223313726-a62ace33-b5f9-432c-8907-a54625ed2d91.jpg)
 
 
 
