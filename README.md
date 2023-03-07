@@ -6,9 +6,9 @@ This is the documentation for RK3566 10.1 inch android lcd digital signage media
 01 HYY RK3566 10.1 inch android lcd digital signage media monitor specification 
 
 # Specifications
-- |  Model No.:  |  HYY-TM1010T  |
-- |  Product type:  |  Advisement player with Touch  |
-- |  System:   |   CPU:   |   64bit Quad core cortex A55,1.8G,RK3566   |
+- |  Model No.:   |  HYY-TM1010T   |
+- |  Product type:   |   Advisement player with Touch    |
+- |  System:    |   CPU:   |   64bit Quad core cortex A55,1.8G,RK3566    |
 
 # Product Pictures
 
