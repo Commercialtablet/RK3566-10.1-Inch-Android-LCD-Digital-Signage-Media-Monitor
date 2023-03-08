@@ -25,7 +25,7 @@ This is the documentation for RK3566 10.1 inch android lcd digital signage media
 | Luminance:        | 300cdm2                                                      |
 | Aspect ratio:     | 16:9                                                         |
 | HDMI:             | HDMI output*1                                                |
-| USB 3.0:          | USB 3.9*1                                                    |
+| USB 3.0:          | USB 3.0*1                                                    |
 | USB 2.0:          | USB 2.0*1                                                    |
 | RJ45:             | Ethernet*1                                                   |
 | Earphone:         | 3.5mm earphone                                               |
